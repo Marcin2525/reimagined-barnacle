@@ -1,0 +1,1 @@
+web: gunicorn djangoProject32432342.wsgi
